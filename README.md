@@ -1,4 +1,4 @@
-👋 ##Hi there, 
+## Hi there 👋, 
 
 I am an MRes Candidate @ScPoEcon and a @RES-Reproducibility Research Replicator for the Economic Journal (EJ) and the Econometrics Journal (EctJ). Previously, I've worked at the Cebr and CEPR. I also have private sector experience from PwC. 
 
