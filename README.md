@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm an MRes Graduate from @ScPoEcon and a @JPE-Reproducibility Research Replicator for the Journal of Political Economy, currently working as a research assistant @CREST. 
+I'm a Ph.D. candidate in Economics at CREST. I also work as a Replicator for the Journal of Political Economy.
